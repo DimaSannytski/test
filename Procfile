@@ -1,1 +1,1 @@
-web: java -jar target/social-master.war
+web: java -jar target/appp.jar
